@@ -101,4 +101,4 @@ Soru 3: Uygulamada olmasını istediğiniz başka hangi özellikler var?
 Soru 4: Uygulamada olmasını istemediğiniz hangi özellikler var?
 Soru 5: Uygulama hakkında genel olarak ne düşünüyorsunuz?
 
-
+![Uploading User_case.jpg…]()
