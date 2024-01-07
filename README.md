@@ -102,6 +102,3 @@ Soru 4: Uygulamada olmasını istemediğiniz hangi özellikler var?
 Soru 5: Uygulama hakkında genel olarak ne düşünüyorsunuz?
 
 
-![Uploading Class_diyagram.png…]()
-![Uploading User_case.jpg…]()
-![Uploading Component.jpg…]()
