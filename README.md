@@ -101,7 +101,10 @@ Soru 3: Uygulamada olmasını istediğiniz başka hangi özellikler var?
 Soru 4: Uygulamada olmasını istemediğiniz hangi özellikler var?
 Soru 5: Uygulama hakkında genel olarak ne düşünüyorsunuz?
 
-![Class_diyagram](https://github.com/kbradrsn/Sistemanalizi/assets/128467850/2cffc5ab-763c-4ab8-bf0e-97299abfba6b)
 
+Class Diyagramı
+![Class_diyagram](https://github.com/kbradrsn/Sistemanalizi/assets/128467850/2cffc5ab-763c-4ab8-bf0e-97299abfba6b)
+Component Diyagramı
 ![Component](https://github.com/kbradrsn/Sistemanalizi/assets/128467850/af86f92b-9095-4c99-b1d6-b5fae43d692a)
+UserCase Diyagramı
 ![User_case](https://github.com/kbradrsn/Sistemanalizi/assets/128467850/6789732e-7124-4d76-84dd-b232a561eac8)
